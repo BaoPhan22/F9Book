@@ -1,0 +1,23 @@
+h3 {
+    text-align: center;
+    margin: 10px;
+}
+body {
+    min-height: 100px;
+}
+.container .content-gt * {
+    font-size: 1.2rem;
+}
+ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+p, ul {
+    margin-bottom: 15px;
+}
+.content-gt {
+    padding: 30px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 20px;
+}
